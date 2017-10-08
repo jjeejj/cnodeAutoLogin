@@ -5,7 +5,7 @@ module.exports = {
 		},
 		email: {
 			smtpConfig: {
-				host: 'smtp.example.com',
+				host: 'smtp.example.com',`
 				port: 587,
 				secure: false, // upgrade later with STARTTLS
 				auth: {
